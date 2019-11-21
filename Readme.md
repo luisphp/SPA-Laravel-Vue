@@ -1,6 +1,6 @@
 <h4>Web SPA hecha con Laravel 6 y Vue JS 2- Vue Router - Vue Infinite</h4>
 
-<p>Esta es una web sencilla en la que se usan VueJS, laravel , vue-router y un componente externo llamado vue-infinite el cuakl permite  hacer scroll infinito en los registros existente en la base de datos de ella se trae informacion de la API de laravel usando axios, para efectos de este ejemplo usamos post rellenos con un seeder/faker de Laravel </p>
+<p>Esta es una web sencilla en la que se usan VueJS, laravel , vue-router y un componente externo llamado vue-infinite el cual permite  hacer scroll infinito en los registros existente en la base de datos, de ella se trae informacion desde la API de laravel usando axios, para efectos de este ejemplo usamos post rellenos con un seeder/faker de Laravel </p>
 
 <br>
 
